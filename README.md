@@ -29,4 +29,4 @@ O RocketNews é uma página de inscrição de newsletter de um portal de noticia
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/ltt6BWE8cezRfsEMwtSXdv/DD-%2F-RocketNews-(Copy)?node-id=3%3A2&t=XXAiP3chkDRf2AFz-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ltt6BWE8cezRfsEMwtSXdv/DD-%2F-RocketNews?t=TcB8JlvpK5Ed2OdR-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
