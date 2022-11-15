@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O RockNews é uma página de inscrição de newsletter de um portal de noticias do mundo DEV.
+O RocketNews é uma página de inscrição de newsletter de um portal de noticias do mundo DEV.
 
 ## 🔖 Layout
 
